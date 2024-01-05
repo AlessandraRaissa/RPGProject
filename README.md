@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I'm creating an app for those who wish to make digital characters sheets for a game. 
 
-A few resources to get you started if this is your first Flutter project:
+Here I'm trring to make it seems easy for the player AND the master, as they both can use the app 
+and define the game system and the rules the players need to follow when creating their sheets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The process will be automatic for some things like, bonuses points, proeficience points, classes, 
+spells, itens, levels and etc depending on how the game system whas defined and how the player is making his charater sheet.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gonna put more details from the project as the development progresses
